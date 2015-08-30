@@ -11,4 +11,4 @@
 	3.SetUp和TearDown以及OneTimeSetUp和OneTimeTearDown的使用
 	4.让测试方法显示的抛弃异常产生异常堆栈
 	5.暂时不想测试的方法前面加pending，让JUnit框架忽略，自己不可忽略失败的异常
-	6.异常框架包括三件事：导入依赖库junit.framework.*,让测试类继承TestCase类，调用super（string name）构造方法
+	6.异常框架包括三件事：导入依赖库junit.framework.*
